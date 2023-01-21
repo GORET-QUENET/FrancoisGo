@@ -1,0 +1,13 @@
+.caption__container {
+	padding: 4px;
+	align-items: flex-start;
+}
+
+.caption__label {
+	margin-top: 4px;
+	margin-bottom: 4px;
+	border-radius: 5px;
+	padding: 4px;
+	width: 100%;
+	-unity-text-align: middle-center;
+}

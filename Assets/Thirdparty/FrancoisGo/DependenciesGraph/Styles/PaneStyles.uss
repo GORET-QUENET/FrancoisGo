@@ -1,0 +1,8 @@
+.pane__header {
+	background-color: var(--colors-window-dark-grey-5);
+	padding: 2px;
+}
+
+.pane__content {
+	flex-grow: 1;
+}

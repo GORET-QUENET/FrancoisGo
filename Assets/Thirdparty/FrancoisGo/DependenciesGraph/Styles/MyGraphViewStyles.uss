@@ -1,0 +1,16 @@
+GridBackground
+{
+	--grid-background-color: var(--colors-grid-light-grey-1);
+	--line-color: var(--colors-grid-light-grey-2);
+	--thick-line-color: var(--colors-grid-light-grey-3);
+	--spacing: var(--metrics-grid-25);
+}
+
+.goto_field {
+	position: absolute;
+	top: 40px;
+	left: 20px;
+	border-width: 1px;
+	border-radius: 5px;
+	padding: 5px;
+}

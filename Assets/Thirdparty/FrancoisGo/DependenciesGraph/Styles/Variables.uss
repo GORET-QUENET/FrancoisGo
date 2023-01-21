@@ -1,0 +1,18 @@
+:root 
+{
+	--colors-grid-light-grey-1: #2b2b2b;
+	--colors-grid-light-grey-2: rgba(51, 51, 51, 0.4);
+	--colors-grid-light-grey-3: rgba(51, 51, 51, 1);
+	--colors-grid-light-grey-4: rgba(51, 51, 51, 0.1);
+
+	--colors-window-dark-grey-1: #1D1D1E;
+	--colors-window-dark-grey-2: #2B2D2F;
+	--colors-window-dark-grey-3: #212325;
+	--colors-window-dark-grey-4: #232527;
+	--colors-window-dark-grey-5: #252525;
+	--colors-window-dark-grey-6: #252729;
+	--colors-window-dark-grey-7: #27292C;
+	--colors-window-dark-grey-8: rgba(50, 50, 50, 0.8);
+
+	--metrics-grid-25: 25;
+}

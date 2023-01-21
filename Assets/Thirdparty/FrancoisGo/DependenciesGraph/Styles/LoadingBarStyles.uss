@@ -1,0 +1,38 @@
+.loading-bar__overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--colors-window-dark-grey-8);
+    align-items: center;
+    justify-content: center;
+}
+
+.loading-bar__window {
+    width: 400px;
+    height: 100px;
+    background-color: white;
+    border-radius: 7px;
+    padding: 10px;
+    font-size: 13px;
+    color: grey;
+}
+
+.loading-bar__container{
+    width: 100%;
+    height: 15px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border-color: var(--colors-grid-light-grey-2);
+    background-color: var(--colors-grid-light-grey-4);
+    border-width: 1px;
+}
+
+.loading-bar__fill{
+    width: 30%;
+    height: 100%;
+    background-color: #0BA427;
+}
+
+.loading-bar__description{
+    color: black;
+}

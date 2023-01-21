@@ -1,0 +1,28 @@
+.node__extension-container
+{
+	background-color: var(--colors-window-dark-grey-1);
+	padding: 8px;
+}
+
+.node__main-container
+{
+	background-color: var(--colors-window-dark-grey-1);
+}
+
+.node__custom-data-containers
+{
+	background-color: var(--colors-window-dark-grey-3);
+	border-radius: 4px;
+	padding: 8px;
+}
+
+.node__image
+{
+	height: 200px;
+	-unity-background-scale-mode: scale-to-fit;
+}
+
+.unity-toggle__text
+{
+	margin-left: 2px;
+}
